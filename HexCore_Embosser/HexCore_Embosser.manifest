@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "script",
+	"author": "Vikrant Kumar",
+	"description": {
+		"": "Parametric Braille embosser convergence head with 6 solenoid holes converging to a 2x3 Braille dot grid."
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
